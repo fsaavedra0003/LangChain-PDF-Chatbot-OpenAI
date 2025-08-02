@@ -27,3 +27,11 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 - [PyMuPDF / pdfplumber](https://pymupdf.readthedocs.io/) for PDF parsing
 
 ---
+
+## 🛠️ Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/fsaavedra0003/LangChain-PDF-Chatbot-OpenAI.git
+cd LangChain-PDF-Chatbot
