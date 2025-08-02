@@ -8,6 +8,12 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 
 ![Extract Metrics Screenshot](https://raw.githubusercontent.com/fsaavedra0003/LangChain-PDF-Chatbot-OpenAI/main/Screenshots/extract_metrics.png)
 
+![Extract Metrics Screenshot](https://raw.githubusercontent.com/fsaavedra0003/LangChain-PDF-Chatbot-OpenAI/main/Screenshots/key_insights.png)
+
+![Extract Metrics Screenshot](https://raw.githubusercontent.com/fsaavedra0003/LangChain-PDF-Chatbot-OpenAI/main/Screenshots/summary.png)
+
+
+
 ---
 
 ## 🚀 Features
