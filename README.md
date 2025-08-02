@@ -16,3 +16,14 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 - 🧩 **Prompt Selector**: Choose from different prompt styles (e.g. Summary, Explanation, Short Answer).
 
 ---
+
+## 📦 Tech Stack
+
+- [Python 3.8+](https://www.python.org/)
+- [LangChain](https://github.com/hwchase17/langchain)
+- [OpenAI API](https://platform.openai.com/)
+- [FAISS (Facebook AI Similarity Search)](https://github.com/facebookresearch/faiss)
+- [Gradio](https://gradio.app/)
+- [PyMuPDF / pdfplumber](https://pymupdf.readthedocs.io/) for PDF parsing
+
+---
