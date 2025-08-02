@@ -4,7 +4,7 @@
 LangChain PDF Chatbot is an intelligent, conversational assistant built with **Python**, **LangChain**, **OpenAI's GPT models**, and **FAISS vector search**. It allows users to **upload a PDF document** and interact with its content through **natural language questions**, leveraging **Retrieval-Augmented Generation (RAG)** to deliver accurate, context-aware answers.
 
 
-## 📸 Screenshots of UI Gradio
+## 📸 Screenshots  Gradio UI
 
 ![Extract Metrics Screenshot](https://raw.githubusercontent.com/fsaavedra0003/LangChain-PDF-Chatbot-OpenAI/main/Screenshots/extract_metrics.png)
 
