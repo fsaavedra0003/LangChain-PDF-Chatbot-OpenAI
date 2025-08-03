@@ -23,7 +23,7 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 - 🔍 **FAISS Vector Search**: Efficient and fast semantic search on document embeddings.
 - 🤖 **GPT-powered Responses**: Generates high-quality answers using OpenAI’s GPT-3.5/4 models.
 - 🖥️ **Gradio Interface**: Clean and user-friendly web UI for interacting with the chatbot.
-- 🧩 **Prompt Selector**: Choose from different prompt styles (e.g. Summary, Explanation, Short Answer).
+- 🧩 **Prompt Selector**: Choose from different prompt styles in UI (e.g. Summary, Explanation, Short Answer).
 
 ---
 
