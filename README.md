@@ -32,7 +32,7 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 - [Python 3.8+](https://www.python.org/)
 - [LangChain](https://github.com/hwchase17/langchain)
 - [OpenAI API](https://platform.openai.com/)
-- [FAISS (Facebook AI Similarity Search)](https://github.com/facebookresearch/faiss)
+- [Croma ( Open-source vector database for embeddings)](https://www.trychroma.com/)
 - [Gradio](https://gradio.app/)
 - [PyMuPDF / pdfplumber](https://pymupdf.readthedocs.io/) for PDF parsing
 
