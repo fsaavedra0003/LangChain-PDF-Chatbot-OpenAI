@@ -18,7 +18,7 @@ LangChain PDF Chatbot is an intelligent, conversational assistant built with **P
 
 ## 🚀 Features
 
-- 📄 **PDF Upload**: Accepts user-uploaded PDF files for processing.
+- 📄 **PDF Upload**: Accepts user-uploaded such as PDF files for processing.
 - 🧠 **RAG-based QA**: Uses LangChain's Retrieval-Augmented Generation pipeline for precise answers.
 - 🔍 **ChromaDB Vector Search**: Efficient and fast semantic search on document embeddings.
 - 🤖 **GPT-powered Responses**: Generates high-quality answers using OpenAI’s GPT-3.5/4 models.
